@@ -1,5 +1,5 @@
 # Laravel 7  Attendance system with gps-with selfie
-choose master branch 
+choose master branch <br>
 1)update composer<br>
 2)php artisan key:generate<br>
 3)create database<br>
